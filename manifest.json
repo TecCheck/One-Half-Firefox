@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "version": "1.0",
-    "name": "One Half Firefox",
+    "name": "One Half",
     "theme": {
         "colors": {
             "toolbar": "#fafafa",
