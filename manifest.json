@@ -1,0 +1,41 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "One Half Firefox",
+    "theme": {
+        "colors": {
+            "toolbar": "#fafafa",
+            "toolbar_text": "#383a42",
+            "frame": "#282c34",
+            "toolbar_field": "#fafafa",
+            "toolbar_field_text": "#383a42",
+            "popup": "#fafafa",
+            "popup_text": "#383a42",
+            "icons": "#383a42",
+            "tab_background_separator": "#383a42",
+            "tab_background_text": "#dcdfe4",
+            "tab_selected": "#fafafa",
+            "tab_text": "#383a42",
+            "tab_loading": "#50a14f",
+            "tab_line": "#50a14f"
+        }
+    },
+    "dark_theme": {
+        "colors": {
+            "toolbar": "#282c34",
+            "toolbar_text": "#dcdfe4",
+            "frame": "#282c34",
+            "toolbar_field": "#21252b",
+            "toolbar_field_text": "#dcdfe4",
+            "popup": "#21252b",
+            "popup_text": "#dcdfe4",
+            "icons": "#dcdfe4",
+            "tab_background_separator": "#dcdfe4",
+            "tab_background_text": "#dcdfe4",
+            "tab_selected": "#282c34",
+            "tab_text": "#dcdfe4",
+            "tab_loading": "#98c379",
+            "tab_line": "#98c379"
+        }
+    }
+}
